@@ -2,7 +2,7 @@
 
 **`CSE Undergraduate`**
 
-<p align='left'> I'm a Software Engineering Undergraduate from Sri Lanka learning Computer Science and Engineering at University of Moratuwa. </p>
+<p align='left'> I'm a Computer Science and Engineering Undergraduate from Sri Lanka learning Computer Science and Engineering at University of Moratuwa. </p>
 
 <hr />
 <img align='right' src=src\gif2.gif height='200'/>
