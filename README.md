@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hello, I'm Thineth Gamage 👋
 
+**`Software Engineering Undergraduate`**
+
+I'm a Software Engineering Undergraduate from Sri Lanka learning Computer Science and Engineering at University of Moratuwa.
+
+<img align='right' src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' height='220'/>
 <!--
 **3nethz/3nethz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
