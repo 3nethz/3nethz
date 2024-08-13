@@ -1,6 +1,6 @@
 # Hello, I'm Thineth Gamage 👋
 
-**`Software Engineering Undergraduate`**
+**`CSE Undergraduate`**
 
 <p align='left'> I'm a Software Engineering Undergraduate from Sri Lanka learning Computer Science and Engineering at University of Moratuwa. </p>
 
