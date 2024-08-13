@@ -7,7 +7,9 @@ I'm a Software Engineering Undergraduate from Sri Lanka learning Computer Scienc
 <img align='right' src=src\gif1.gif height='220'/>
 
 <h3> Connect with me: </h3>
-<a href='www.linkedin.com/in/thineth-gamage-3212aa320' target='black'><img src=/></a>
+<p align='left'>
+<a href='www.linkedin.com/in/thineth-gamage-3212aa320' target='black'><img src=src\linkedin.gif height='50' align='center'/></a>
+</p>
 <!--
 **3nethz/3nethz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
