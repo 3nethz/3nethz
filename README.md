@@ -15,8 +15,6 @@
 
 ---
 
-![3nethz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3nethz&theme=prussian&show_icons=true&hide_border=true&layout=compact)
-
 <h3 align='left'> Connect with me: </h3>
 <p align='left'>
 <a href="https://www.linkedin.com/in/thineth-gamage-3212aa320/" target='black'><img src=src\linkedin.gif height='50' align='center'/></a>
